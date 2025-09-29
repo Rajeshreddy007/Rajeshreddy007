@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working at **Revature as Trainee Software Engineer**  
 - 🌱 I’m currently learning **Java Full Stack Development**  
-- 💬 Ask me about **anything related to Java Tech stack and related technologies**  
+- 💬 Ask me about **Java Tech stack and related technologies**  
 - 📫 How to reach me **rajeshreddykumbam948@outlook.com**  
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1z5CP6NunIbImFtnzjbBj6hoTjv0jX59z/view?usp=sharing)  
 - ⚡ Fun fact **I sometimes talk to my code as if it can hear me**  
